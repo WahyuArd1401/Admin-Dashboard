@@ -1,8 +1,23 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+- React Router
+- Lucide React
+- Framer Motion
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to use
+1. Clone Project
+```yaml
+git clone https://github.com/WahyuArd1401/Admin-Dashboard.git
+```
+2. Install package
+```yaml
+npm install
+```
+3. Run program
+```yaml
+npm run dev
+```
+## Login Account
+- Username : admin
+- Password : 1234
