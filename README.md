@@ -18,6 +18,14 @@ npm install
 ```yaml
 npm run dev
 ```
-## Login Account
-- Username : admin
-- Password : 1234
+## Information
+- Pagination minimum 7 data's
+- Account
+  -  Username : admin
+  - Password : 1234
+- Local Storage
+- CRUD & search feature
+- Support Dark & Light Mode
+
+## Deploy Project Link
+https://admin-dashboard-blue-nine.vercel.app/
